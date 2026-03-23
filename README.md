@@ -12,7 +12,6 @@ Report generation – Creates reports using detected objects and optional cloud-
 
 The system is implemented in a modular way to allow easy extension, testing, and integration of new detectors, gesture types, or reporting methods.
 
-Project Architecture
 C:.
 │   main.py                 # Entry point for the project
 │   README.md
@@ -49,7 +48,6 @@ C:.
 └───utils                   # Utility functions
     ├───bbox_utils.py
     └───image_utils.py
-
 
 Project Flow
 
